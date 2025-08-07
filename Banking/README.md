@@ -1,2 +1,3 @@
 # Banking Project
-Backend Application developed using Spring Boot and MySQL.
+Banking Application developed using Spring Boot and MySQL.
+-> Rest APIs for handling http requests
